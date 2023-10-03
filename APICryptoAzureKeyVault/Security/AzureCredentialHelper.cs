@@ -3,7 +3,7 @@
 namespace APICryptoAzureKeyVault.Security;
 
 // Informacoes sobre os tipos possiveis de Credentials:
-// 
+// https://learn.microsoft.com/en-us/dotnet/api/azure.core.tokencredential?view=azure-dotnet
 
 public static class AzureCredentialHelper
 {
